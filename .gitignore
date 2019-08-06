@@ -1,2 +1,10 @@
+node_modules
 .DS_Store
-node_modules/
+## vscode directory
+.vscode/
+## environment variables
+.env
+## database files
+*.db3
+## log files
+*.log
